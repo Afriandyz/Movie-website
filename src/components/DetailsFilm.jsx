@@ -75,7 +75,7 @@ const DetailsFilm = () => {
     <main>
       <div className="pattern" />
 
-      <div className="text-white wrapper">
+      <div className="text-white wrapper overflow-hidden">
         {/* title */}
         <div className="flex items-center justify-between">
           <div>
