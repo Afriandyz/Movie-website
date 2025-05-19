@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 // import noMovie from "../assets/NoPoster.png";
-import rating from "../assets/rating.svg";
+import rating from "../assets/Rating.svg";
 import Spinner from "./Spinner";
 
 const API_BASE_URL = "https://api.themoviedb.org/3";
